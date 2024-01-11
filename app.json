@@ -21,10 +21,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.heavyjg.festus"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "143baf31-9293-4ce6-9490-a58c077bee53"
+      }
+    },
+    "owner": "heavyjg"
   }
 }
